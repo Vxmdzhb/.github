@@ -74,3 +74,6 @@ has the details.
 Found a bug, have an idea, or want to help? Issues and pull requests are
 welcome in any of the repositories. Security problems: please report them
 privately, through the repository's **Security** tab.
+
+Everything here is released under the
+[Do Whatever License](https://github.com/Vxmdzhb/astrx/blob/main/LICENSE).
