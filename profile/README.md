@@ -67,7 +67,8 @@ has the details.
 | [websearch](https://github.com/Vxmdzhb/websearch) · [onioncrawler](https://github.com/Vxmdzhb/onioncrawler) · [torrentds](https://github.com/Vxmdzhb/torrentds) · [gitweb](https://github.com/Vxmdzhb/gitweb) · [suitedash](https://github.com/Vxmdzhb/suitedash) · [crawlcore](https://github.com/Vxmdzhb/crawlcore) | The Rust engines and their shared library. |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Vxmdzhb/astrx/main/docs/screenshots/themes.png" alt="The same page in six of the bundled themes">
+  <img src="https://raw.githubusercontent.com/Vxmdzhb/astrx/main/docs/screenshots/search-torrents.png" width="49%" alt="AstrX search, on its torrents tab">
+  <img src="https://raw.githubusercontent.com/Vxmdzhb/astrx/main/docs/screenshots/git-tree.png" width="49%" alt="A repository on the AstrX Code page">
 </p>
 
 Found a bug, have an idea, or want to help? Issues and pull requests are
